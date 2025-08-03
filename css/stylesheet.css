@@ -631,6 +631,7 @@ select {
   display: flex;
   gap: 1.5rem;
 }
+
 .in-logo li {
   font-size: 2rem;
   font-weight: 500;
