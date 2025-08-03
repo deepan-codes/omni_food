@@ -142,4 +142,3 @@ Privacy & terms
 - Pricing + features
 - CTA
 - Footer
-  <ion-icon name="logo-linkedin"></ion-icon>
